@@ -8,11 +8,7 @@ Research Assistant at the **Department of Control and Automation Engineering**, 
 
 ---
 
-#### 🔬 Featured: interactive control labs
-
-<a href="https://github.com/BekirTahaAlver/KON314-Control-System-Design">
-  <img src="https://raw.githubusercontent.com/BekirTahaAlver/KON314-Control-System-Design/main/docs/pole_drag_lab.gif" alt="Pole Drag Lab: drag the poles, watch the mass-spring-damper respond" width="720">
-</a>
+#### 🔬 Featured: [interactive control labs](https://github.com/BekirTahaAlver/KON314-Control-System-Design)
 
 | Lab | What students learn |
 |---|---|
