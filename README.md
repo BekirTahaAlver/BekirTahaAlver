@@ -14,6 +14,7 @@ Research Assistant at the **Department of Control and Automation Engineering**, 
 |---|---|
 | [Pole Drag Lab](https://github.com/BekirTahaAlver/KON314-Control-System-Design#pole-drag-lab) | How pole locations set overshoot, peak time and settling time |
 | [Root Locus Lab](https://github.com/BekirTahaAlver/KON314-Control-System-Design#root-locus-lab) | How the closed-loop poles move as the gain K grows, and where the loop goes unstable |
+| [Root Locus Lab](https://github.com/BekirTahaAlver/KON314-Control-System-Design#root-locus-lab) | How the closed-loop poles move as the gain K grows, and where the loop goes unstable |
 | [Ziegler–Nichols Tuning Lab](https://github.com/BekirTahaAlver/KON314-Control-System-Design#zieglernichols-tuning-lab) | Closed-loop PID tuning on a heated water tank with transport delay |
 
 Single-file MATLAB apps, no toolboxes needed. More labs are added during the semester.
